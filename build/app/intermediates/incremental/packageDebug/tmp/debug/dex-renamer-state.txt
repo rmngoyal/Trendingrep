@@ -1,0 +1,4 @@
+#Tue Oct 22 13:00:35 IST 2019
+base.0=E\:\\trendinggit\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
